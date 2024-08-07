@@ -6,6 +6,7 @@
 	border-radius: 5px;
 	display: inline-block;
 	background: white;
+	margin-right: -120px
 }
 
 .card * {
@@ -35,4 +36,5 @@
 .playing-area {
 	background-color: green;
 	padding: 25px;
+	display: flex;
 }
